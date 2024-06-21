@@ -1,0 +1,56 @@
+[
+    {
+        "name": "read",
+        "activity": "reading",
+        "emoji": "📖",
+        "accomplishment": "books",
+        "accomplishment_unit": "words",
+        "accomplishment_length": 80000,
+        "speed": 250
+    },
+    {
+        "name": "write",
+        "activity": "writing",
+        "emoji": "✍️",
+        "accomplishment": "stories/articles",
+        "accomplishment_unit": "words",
+        "accomplishment_length": 2000,
+        "speed": 30
+    },
+    {
+        "name": "run",
+        "activity": "running",
+        "emoji": "🏃",
+        "accomplishment": "marathons",
+        "accomplishment_unit": "kms",
+        "accomplishment_length": 42.2,
+        "speed": 0.25
+    },
+    {
+        "name": "cycle",
+        "activity": "cycling",
+        "emoji": "🚲",
+        "accomplishment": "century rides",
+        "accomplishment_unit": "kms",
+        "accomplishment_length": 160.9,
+        "speed": 0.30
+    },
+    {
+        "name": "code",
+        "activity": "coding",
+        "emoji": "🧑‍💻",
+        "accomplishment": "projects",
+        "accomplishment_unit": "lines of code",
+        "accomplishment_length": 2000,
+        "speed": 10
+    },
+    {
+        "name": "listen",
+        "activity": "podcasts",
+        "emoji": "🎧",
+        "accomplishment": "episodes of podcast",
+        "accomplishment_unit": "minutes",
+        "accomplishment_length": 60,
+        "speed": 1
+    }
+]
